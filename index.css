@@ -1,0 +1,57 @@
+.connect{
+    font-size: 16px;
+    color:rgb(13, 138, 98);
+}
+.home{
+    background-color:  rgb(13, 138, 98);
+    border-radius: 10px;
+    width: 80px;
+}
+.place:hover{
+    background-color:  rgb(13, 138, 98);
+    border-radius: 10px;
+    color: white;
+}
+.connect:hover{
+    color: rgb(13, 138, 98);
+}
+
+.image{
+    background-image: url(farm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+.btn{
+    width: 150px;
+    height:60px;
+    border-radius: 10px;
+    background-color:  rgb(13, 138, 98);
+    display: flex;
+    justify-content: center;
+}
+.crops1{
+    background-color:rgb(238, 254, 249);
+   padding: 20px;
+   border-radius: 20px;
+}
+.crops1:hover{
+    background-color: rgb(189, 249, 229);
+    cursor: pointer;
+}
+.icon:hover{
+    cursor: pointer;
+}
+.container-fluid{
+    background-color:rgb(238, 254, 249);;
+     
+}
+.crops2{
+    background-color:rgb(226, 238, 234);
+   padding: 20px;
+   border-radius: 20px;
+}
+.gip{
+    background-color: whitesmoke;
+}

@@ -1,0 +1,70 @@
+.form{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 0;
+    border-color: rgb(89, 174, 146);
+}
+.peron{
+    font-size: 40px;
+}
+.trim{
+    border-radius: 10px;
+    border: 1px solid rgb(89, 174, 146);
+    background-color: rgba(189, 228, 216, 0.422);
+    color: rgb(50, 129, 102);
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.make{
+    background-color:rgb(238, 254, 249);
+    
+}
+.make1{
+    background-color:rgb(238, 254, 249);
+    width: 40%;
+    color: white;
+    /* border-radius: 20px; */
+    /* appearance: none;
+    cursor: pointer;
+    height: var(--pill-height);
+    line-height: var(--pill-height);
+    padding:0 var(--pill-padding-x);
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: 16px;
+    transition: transform .12s ease, box-shadow .12s ease, .12s ease, color .12s ease color .12s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center; */
+
+}
+
+.active{
+    background-color: #198754 !important;
+}
+
+.make1 .quest:hover{
+    color: white;
+}
+.make1 .quest1:hover{
+    color: black;
+}
+.quest{
+    /* background-color: rgb(34, 130, 98);
+    border-radius: 20px;
+    width: 120px;
+    padding: 7px;
+     text-align: center;
+     color: aliceblue; */
+
+
+}
+.quest{
+    /* background-color: rgb(34, 130, 98);
+    border-radius: 20px;
+    width: 120px;
+    padding: 7px;
+    text-align: center;
+    color: aliceblue; */
+}

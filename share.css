@@ -1,0 +1,47 @@
+.form{
+    max-width: 480px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 0;
+    border-color: rgb(89, 174, 146);
+     background-color: rgb(239, 248, 242);
+
+}
+.question{
+    max-width: 400px;
+    background-color: rgb(198, 246, 232);
+    border-radius: 10px;
+    height: 300px;
+}
+.icon{
+    font-size: 50px;
+}
+.form-control{
+    background-color: rgb(234, 250, 245);
+     box-shadow: 0 0 0.25rem rgba(25, 135, 84, 1);
+    transition: .2s;
+}
+.send{
+    border: none;
+    background-color: rgb(42, 133, 103);
+    border-radius: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    justify-content: center;
+}
+.send1{
+    border: none;
+    background-color: rgb(233, 245, 241);
+    border-radius: 20px;
+    color: rgba(0, 0, 0, 0.087);
+    font-weight: bold;
+    justify-content: center;
+    border: 1px solid rgb(36, 166, 123);;
+}
+.send1:hover{
+    color: black;
+}
+.send:hover{
+    background-color: rgb(36, 166, 123);
+
+}

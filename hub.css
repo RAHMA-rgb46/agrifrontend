@@ -1,0 +1,100 @@
+body{
+    overflow-x: hidden;
+}
+
+.make1{
+    background-color:rgb(238, 254, 249);
+    width: 40%;
+    color: white;
+}
+
+.active{
+    background-color: #198754 !important;
+}
+
+.make1 .quest:hover{
+    color: black;
+}
+.make1 .quest1:hover{
+    color: white;
+}
+.form{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 0;
+    border-color: rgb(89, 174, 146);
+}
+
+.trim{
+    border-radius: 10px;
+    border: 1px solid rgb(89, 174, 146);
+    background-color: rgba(189, 228, 216, 0.422);
+    color: rgb(50, 129, 102);
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.trim1{
+    border-radius: 10px;
+    border: 1px solid rgb(89, 174, 146);
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.peron{
+    font-size: 40px;
+}
+
+.answer{
+    background-color: rgba(240, 253, 244, 1);
+    border-radius: 6px;
+    padding: 8px 10px;
+    margin-bottom: 14px;
+}
+
+.answer .fa-circle-user{
+    font-size: 30px;
+}
+
+.post{
+    background-color:  rgb(19, 117, 85);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.view:hover{
+    background-color: rgb(185, 242, 223);
+    border-radius: 10px;
+    height: 30px;
+}
+.arrow{
+    margin-right: 40px;
+}
+.form-control{
+    background-color: whitesmoke;
+    border: 1px solid rgb(89, 174, 146);
+}
+
+.form-control:focus{
+    /* border-color: rgba(25, 135, 84, 1); */
+    box-shadow: 0 0 0.25rem rgba(25, 135, 84, 1);
+    transition: .2s;
+}
+
+.accordion-header button{
+    color: green !important;
+    padding: 0;
+    background-color: #fff;
+}
+
+/* .accordion-header button:focus{
+    background-color: #fff;
+    border: none;
+} */
+
+.accordion-button:focus{
+    background-color: #fff;
+    box-shadow: none;
+}
